@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package proto.user.v1;
+
+option go_package = "github.com/AnnuCode/toy-grpc/gen/go/user/v1;userpb";
+
+
+message User{
+    int64 id = 1;
+    string fname = 2;
+    string city = 3;
+    int64 phone = 4;
+    float height = 5;
+    bool married = 6;
+}
+
+
