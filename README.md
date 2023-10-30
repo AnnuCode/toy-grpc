@@ -15,8 +15,9 @@
 
 ### GetUser response screenshot
 
-![GetUser](https://github.com/AnnuCode/toy-grpc/assets/97174641/49bf7516-6d8a-4b05-b57e-d2f93b18bbc7)
+![GetUser](https://github.com/AnnuCode/toy-grpc/assets/97174641/1e576188-0031-421b-8119-37401588befc)
+
 
 ## GetUsers response screenshot
 
-![GetUsers](https://github.com/AnnuCode/toy-grpc/assets/97174641/19584625-0e95-4cb8-b250-59bdeae6ff03)
+![GetUsers](https://github.com/AnnuCode/toy-grpc/assets/97174641/d0ff6bdd-ea28-433b-bc89-aeea4c217237)
