@@ -1,4 +1,4 @@
-# Totality Corp Assignment project
+# GRPC Unary API 
 
 ## Steps to run the project:
 - to run the grpc server, run `go run main.go` in the `cmd` directory to run the `main.go` file.
@@ -8,7 +8,7 @@
 
 ## Design Pattern
 - I've used Repository pattern in this project to create a layer between database specific logic and business logic in the app.
-- I've used an in-memory database as was mentioned in the task instructions.
+- I've used an in-memory repository implementation.
 - Using this pattern, we can treat repositories as adapters which can be changed in the future without having to touch the business logic(handlers). For example, to use MySQL in future, we can create a MySQL
     repository and use it instead of the in-memory repository. 
   
