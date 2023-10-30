@@ -1,4 +1,5 @@
-# GRPC Unary API 
+# gRPC Unary API 
+A simple gRPC Unary API which uses Repository pattern. 
 
 ## Steps to run the project:
 - to run the grpc server, run `go run main.go` in the `cmd` directory to run the `main.go` file.
